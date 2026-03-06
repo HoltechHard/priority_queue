@@ -1,0 +1,362 @@
+[
+  {
+    "ticket_id": "TICK-101",
+    "customer": "Alice",
+    "issue": "Website is down",
+    "severity": "medium"
+  },
+  {
+    "ticket_id": "TICK-102",
+    "customer": "Bob",
+    "issue": "Cannot change profile picture",
+    "severity": "low"
+  },
+  {
+    "ticket_id": "TICK-103",
+    "customer": "Charlie",
+    "issue": "Payment gateway failing",
+    "severity": "high"
+  },
+  {
+    "ticket_id": "TICK-104",
+    "customer": "Diana",
+    "issue": "Login button color wrong",
+    "severity": "low"
+  },
+  {
+    "ticket_id": "TICK-105",
+    "customer": "Eve",
+    "issue": "Data export taking too long",
+    "severity": "medium"
+  },
+  {
+    "ticket_id": "TICK-106",
+    "customer": "Frank",
+    "issue": "Mobile app crashes on checkout",
+    "severity": "critical"
+  },
+  {
+    "ticket_id": "TICK-107",
+    "customer": "Grace",
+    "issue": "Email notifications not arriving",
+    "severity": "medium"
+  },
+  {
+    "ticket_id": "TICK-108",
+    "customer": "Henry",
+    "issue": "Unable to reset password",
+    "severity": "high"
+  },
+  {
+    "ticket_id": "TICK-109",
+    "customer": "Ivy",
+    "issue": "Search function returns no results",
+    "severity": "medium"
+  },
+  {
+    "ticket_id": "TICK-110",
+    "customer": "Jack",
+    "issue": "Invoice PDF download fails",
+    "severity": "low"
+  },
+  {
+    "ticket_id": "TICK-111",
+    "customer": "Kelly",
+    "issue": "Subscription renewal charged twice",
+    "severity": "high"
+  },
+  {
+    "ticket_id": "TICK-112",
+    "customer": "Leo",
+    "issue": "Dashboard widgets not loading",
+    "severity": "medium"
+  },
+  {
+    "ticket_id": "TICK-113",
+    "customer": "Mia",
+    "issue": "Two-factor authentication code invalid",
+    "severity": "high"
+  },
+  {
+    "ticket_id": "TICK-114",
+    "customer": "Noah",
+    "issue": "Font size too small on reports",
+    "severity": "low"
+  },
+  {
+    "ticket_id": "TICK-115",
+    "customer": "Olivia",
+    "issue": "File upload limit error (says 5MB but allows 10MB)",
+    "severity": "low"
+  },
+  {
+    "ticket_id": "TICK-116",
+    "customer": "Paul",
+    "issue": "API rate limit hit too early",
+    "severity": "medium"
+  },
+  {
+    "ticket_id": "TICK-117",
+    "customer": "Quinn",
+    "issue": "Order status stuck at 'Processing' for 3 days",
+    "severity": "high"
+  },
+  {
+    "ticket_id": "TICK-118",
+    "customer": "Riley",
+    "issue": "Dark mode toggle not saving",
+    "severity": "low"
+  },
+  {
+    "ticket_id": "TICK-119",
+    "customer": "Sophie",
+    "issue": "Bank transfer refund not received",
+    "severity": "critical"
+  },
+  {
+    "ticket_id": "TICK-120",
+    "customer": "Tom",
+    "issue": "Calendar sync missing events",
+    "severity": "medium"
+  },
+  {
+    "ticket_id": "TICK-121",
+    "customer": "Uma",
+    "issue": "Product images not displaying in catalog",
+    "severity": "high"
+  },
+  {
+    "ticket_id": "TICK-122",
+    "customer": "Victor",
+    "issue": "Account locked after 3 failed logins",
+    "severity": "medium"
+  },
+  {
+    "ticket_id": "TICK-123",
+    "customer": "Wendy",
+    "issue": "Promo code not applying at checkout",
+    "severity": "low"
+  },
+  {
+    "ticket_id": "TICK-124",
+    "customer": "Xander",
+    "issue": "Server timeout when generating large report",
+    "severity": "high"
+  },
+  {
+    "ticket_id": "TICK-125",
+    "customer": "Yara",
+    "issue": "Live chat widget not appearing",
+    "severity": "medium"
+  },
+  {
+    "ticket_id": "TICK-126",
+    "customer": "Zoe",
+    "issue": "Entire site showing 500 error after login",
+    "severity": "critical"
+  },
+  {
+    "ticket_id": "TICK-127",
+    "customer": "Alex",
+    "issue": "Wrong currency displayed in cart",
+    "severity": "medium"
+  },
+  {
+    "ticket_id": "TICK-128",
+    "customer": "Bella",
+    "issue": "Cannot add more than 10 items to wishlist",
+    "severity": "low"
+  },
+  {
+    "ticket_id": "TICK-129",
+    "customer": "Chris",
+    "issue": "Webhook delivery failing intermittently",
+    "severity": "high"
+  },
+  {
+    "ticket_id": "TICK-130",
+    "customer": "Dana",
+    "issue": "Forgot password link expired too quickly",
+    "severity": "medium"
+  },
+  {
+    "ticket_id": "TICK-131",
+    "customer": "Ethan",
+    "issue": "Checkout page freezes after adding coupon",
+    "severity": "high"
+  },
+  {
+    "ticket_id": "TICK-132",
+    "customer": "Fiona",
+    "issue": "Profile picture upload shows error 413",
+    "severity": "medium"
+  },
+  {
+    "ticket_id": "TICK-133",
+    "customer": "George",
+    "issue": "Annual subscription not applying 20% discount",
+    "severity": "high"
+  },
+  {
+    "ticket_id": "TICK-134",
+    "customer": "Hannah",
+    "issue": "Mobile menu overlaps content on iPhone",
+    "severity": "low"
+  },
+  {
+    "ticket_id": "TICK-135",
+    "customer": "Isaac",
+    "issue": "All products showing 'Out of stock' incorrectly",
+    "severity": "critical"
+  },
+  {
+    "ticket_id": "TICK-136",
+    "customer": "Julia",
+    "issue": "Cannot remove item from shopping cart",
+    "severity": "medium"
+  },
+  {
+    "ticket_id": "TICK-137",
+    "customer": "Kevin",
+    "issue": "Tax calculation wrong for international orders",
+    "severity": "high"
+  },
+  {
+    "ticket_id": "TICK-138",
+    "customer": "Luna",
+    "issue": "Newsletter signup confirmation email never arrives",
+    "severity": "low"
+  },
+  {
+    "ticket_id": "TICK-139",
+    "customer": "Mason",
+    "issue": "Video player buffering forever on product page",
+    "severity": "medium"
+  },
+  {
+    "ticket_id": "TICK-140",
+    "customer": "Nora",
+    "issue": "Account shows orders from another user",
+    "severity": "critical"
+  },
+  {
+    "ticket_id": "TICK-141",
+    "customer": "Owen",
+    "issue": "Filter by price not working on category page",
+    "severity": "medium"
+  },
+  {
+    "ticket_id": "TICK-142",
+    "customer": "Paige",
+    "issue": "Gift card balance not updating after redemption",
+    "severity": "high"
+  },
+  {
+    "ticket_id": "TICK-143",
+    "customer": "Quinn",
+    "issue": "Font renders incorrectly in Safari browser",
+    "severity": "low"
+  },
+  {
+    "ticket_id": "TICK-144",
+    "customer": "Ryan",
+    "issue": "Bulk import of products fails at 500 items",
+    "severity": "high"
+  },
+  {
+    "ticket_id": "TICK-145",
+    "customer": "Sophia",
+    "issue": "Live chat ends session after 2 minutes of inactivity",
+    "severity": "medium"
+  },
+  {
+    "ticket_id": "TICK-146",
+    "customer": "Tyler",
+    "issue": "Order confirmation email sent to wrong address",
+    "severity": "high"
+  },
+  {
+    "ticket_id": "TICK-147",
+    "customer": "Uma",
+    "issue": "Product variant selector disappears on refresh",
+    "severity": "medium"
+  },
+  {
+    "ticket_id": "TICK-148",
+    "customer": "Victor",
+    "issue": "Cannot download digital product after purchase",
+    "severity": "critical"
+  },
+  {
+    "ticket_id": "TICK-149",
+    "customer": "Willow",
+    "issue": "Zoom on product images not working on mobile",
+    "severity": "low"
+  },
+  {
+    "ticket_id": "TICK-150",
+    "customer": "Xavier",
+    "issue": "API returns 429 Too Many Requests after 5 calls",
+    "severity": "medium"
+  },
+  {
+    "ticket_id": "TICK-151",
+    "customer": "Yvonne",
+    "issue": "Shipping calculator shows $0 for all locations",
+    "severity": "high"
+  },
+  {
+    "ticket_id": "TICK-152",
+    "customer": "Zach",
+    "issue": "Password strength meter always says 'weak'",
+    "severity": "low"
+  },
+  {
+    "ticket_id": "TICK-153",
+    "customer": "Ava",
+    "issue": "Referral program link generates 404 error",
+    "severity": "medium"
+  },
+  {
+    "ticket_id": "TICK-154",
+    "customer": "Blake",
+    "issue": "Inventory not decreasing after successful order",
+    "severity": "critical"
+  },
+  {
+    "ticket_id": "TICK-155",
+    "customer": "Chloe",
+    "issue": "Blog post comments section missing entirely",
+    "severity": "low"
+  },
+  {
+    "ticket_id": "TICK-156",
+    "customer": "Dylan",
+    "issue": "Stripe payment fails with generic error message",
+    "severity": "high"
+  },
+  {
+    "ticket_id": "TICK-157",
+    "customer": "Ella",
+    "issue": "Wishlist share link redirects to homepage",
+    "severity": "medium"
+  },
+  {
+    "ticket_id": "TICK-158",
+    "customer": "Finn",
+    "issue": "Admin dashboard loads extremely slowly",
+    "severity": "high"
+  },
+  {
+    "ticket_id": "TICK-159",
+    "customer": "Gemma",
+    "issue": "Currency switcher not updating prices in real-time",
+    "severity": "medium"
+  },
+  {
+    "ticket_id": "TICK-160",
+    "customer": "Hugo",
+    "issue": "Entire frontend returns blank page after cache clear",
+    "severity": "critical"
+  }
+]
