@@ -1,0 +1,35 @@
+==============================================
+|       TECHNICAL SUPPORT TICKET SYSTEM      |
+==============================================
+
+--- ARCHITECTURE ---
+
+* Database:     Redis Hashes        --> database of full details of tickets
+
+* Queue:        Sorted Set (ZSET)   --> ticket-id stored where score is priority
+
+
+--- COMMANDS ---
+
+1) start redis
+
+$ docker compose up -d 
+
+2) container name
+
+redis-server
+
+3) command to drop container
+
+$ docker compose down -v
+
+3) test connection
+
+$ docker exec -it redis-server redis-cli -a holtech_torch777 PING
+
+4) check Redis Insight
+
+link: http://localhost:5540 (in local computer)
+
+redis://default:holtech_torch777@redis:6379 (based on docker container)
+
