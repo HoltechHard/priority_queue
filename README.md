@@ -10,9 +10,16 @@ URL connection to database:
 redis://default:holtech_torch777@redis:6379   
   
 ### Redis DB  
+  
+HASH-full data   
    
-<img width="1347" height="604" alt="image" src="https://github.com/user-attachments/assets/285c69f3-922f-4195-bd1a-6602fffcebc5" />
-   
+<img width="1295" height="578" alt="image" src="https://github.com/user-attachments/assets/289a2a0b-ed8d-4c04-9319-4948989da98c" />  
+  
+  
+Priority-queue   
+<img width="1294" height="575" alt="image" src="https://github.com/user-attachments/assets/6224f125-248b-47c3-9658-76a91601f5de" />   
+  
+    
 ### Data Results      
    
 * seed_db.py --> Populated data  
