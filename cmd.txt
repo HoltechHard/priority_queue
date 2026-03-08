@@ -29,7 +29,9 @@ $ docker exec -it redis-server redis-cli -a holtech_torch777 PING
 
 4) check Redis Insight
 
-link: http://localhost:5540 (in local computer)
+link: 
+http://localhost:5540 (in local computer)
 
+conection url:
 redis://default:holtech_torch777@redis:6379 (based on docker container)
 
