@@ -9,6 +9,7 @@ import time
 # Configuration
 REDIS_HOST = 'localhost'
 REDIS_PORT = 6379
+REDIS_DB = 0
 REDIS_USER = 'default'
 REDIS_PASSWORD = 'holtech_torch777'
 QUEUE_NAME = "support_queue"
@@ -17,6 +18,7 @@ QUEUE_NAME = "support_queue"
 r = redis.Redis(
     host=REDIS_HOST, 
     port=REDIS_PORT, 
+    db=REDIS_DB,
     username=REDIS_USER,
     password=REDIS_PASSWORD, 
     decode_responses=True
